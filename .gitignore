@@ -6,3 +6,7 @@
 
 .DS_Store
 .idea/
+
+best.h5
+.ipynb_checkpoints/
+.idea/
